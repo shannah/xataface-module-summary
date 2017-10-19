@@ -45,7 +45,7 @@ modules/summary
 2. Add the following to the [_modules] section of your app's conf.ini
 file:
 
-modules_summary=modules/datepicker/summary.php
+modules_summary=modules/summary/summary.php
 
 Usage:
 ======
